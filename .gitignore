@@ -23,3 +23,7 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 .vercel
+
+# resources (client files, keep only README)
+/resources/*
+!/resources/README.md
